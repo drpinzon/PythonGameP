@@ -1,0 +1,2 @@
+22-Aug-2016
+We explore the commands for managing, creating, and cloning a git repository
